@@ -25,9 +25,6 @@ The mobile application sends control commands through Bluetooth. The HC-05 modul
 - Right
 - Stop
 
-## Circuit Diagram
-
-![Circuit Diagram](circuit-diagram.png)
 
 ## Arduino Source Code
 
